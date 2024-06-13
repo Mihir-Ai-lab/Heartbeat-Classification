@@ -77,4 +77,6 @@ To help you get started, we've provided a [baseline notebook](https://github.com
 
 If you have any questions or need assistance, please post in the competition forum or contact our support team at support@ostrich-ai.com.
 
+Further details regaridng the exact competition dates & how to participate will be shared on the [community](https://nas.io/ostrich-ai)
+
 We look forward to your innovative solutions and wish you the best of luck!

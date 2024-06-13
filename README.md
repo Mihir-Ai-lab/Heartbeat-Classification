@@ -59,7 +59,7 @@ Your submission file should be a CSV with the following columns:
 | ... | ... |
 
 ## Getting Started
-To help you get started, we've provided a baseline notebook that demonstrates how to load the data, preprocess it, and build a simple model using a convolutional neural network (CNN). Feel free to build on this or use your own approach.
+To help you get started, we've provided a [baseline notebook](https://github.com/Mihir-Ai-lab/Heartbeat-Classification/blob/main/baseline.ipynb) that demonstrates how to load the data, preprocess it, and build a simple model using a convolutional neural network (CNN). Feel free to build on this or use your own approach.
 
 ## Prizes
 - **1st Place**: ₹35,000

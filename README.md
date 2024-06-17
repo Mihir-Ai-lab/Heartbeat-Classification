@@ -67,11 +67,11 @@ To help you get started, we've provided a [baseline notebook](https://github.com
 - **3rd Place**: ₹15,000
 
 ## Timeline (Tentative)
-- **Competition Launch**: June 20th
-- **Data Exploration and Preprocessing**: June 20th - June 23rd
-- **Model Development**: June 23rd - June 30th
-- **Final Submission**: July 4th
-- **Result Announcement**: July 6th
+- **Competition Launch**: July 20th
+- **Data Exploration and Preprocessing**: July 20th - July 23rd
+- **Model Development**: July 23rd - July 30th
+- **Final Submission**: August 4th
+- **Result Announcement**: August 6th
 
 ## Support
 
